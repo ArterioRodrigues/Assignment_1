@@ -43,16 +43,22 @@ h3 {
     padding-top: 50px;
 }
 
+.chasmfiend-row{
+    width: 75%;
+    text-align: left;
+    line-height: 2;
+    margin: 50px auto;
+}
 
 .animals-row {
-    
     width: 50%;
     margin: 150px auto 150px auto;
     text-align: left;
     line-height: 2;  
 }
+
 .animals-img {
     float: left;
-    width: 50%;
+    width: 45%;
     margin-right: 30px;
 }
